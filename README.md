@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ian</h1>
 <h3 align="center">A passionate frontend developer from the UK</h3>
 
+- 🧠 Proficient in **React, JavaScript, HTML & CSS**
+
 - 🌱 I’m currently learning **TypeScript & Python**
 
 - 📫 How to reach me **dev.iangrantham@gmail.com**
